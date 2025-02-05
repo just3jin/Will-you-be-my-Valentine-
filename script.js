@@ -2,12 +2,12 @@ const messages = [
     "Are you sure?",
     "Really sure??",
     "Are you positive?",
-    "Pookie please...",
-    "Just think about it!",
-    "If you say no, I will be really sad...",
-    "I will be very sad...",
-    "I will be very very very sad...",
-    "Ok fine, I will stop asking...",
+    "Honey please...",
+    "Just think about it my honeyyyyy!",
+    "please my honey huhuhu...",
+    "please say yes my love...",
+    "I will understand if you say no my honey huhu...",
+    "I love you so much my honey...",
     "Just kidding, say yes please! ❤️"
 ];
 
